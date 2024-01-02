@@ -1,0 +1,3 @@
+string label
+zed_interfaces/BoundingBox3D bounding_box
+std_msgs/Float32MultiArray dimensions_3d
